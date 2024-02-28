@@ -50,8 +50,8 @@ $ source ids-env/bin/activate
 ```
 - Clone this repository
 ```
-$ git clone https://github.com/JayantUppal/Intrusion-Detection-System.git
-$ cd Intrusion-Detection-System/
+$ git https://github.com/baburn/Intrusion-Detection-System-using-Machine-Learning-Algorithms.git
+$ cd Intrusion-Detection-System-using-Machine-Learning-Algorithms/
 ```
 - Install necessary imports
 ```
@@ -63,3 +63,5 @@ $ pip install -r requirements.txt
 $ jupyter notebook
 ```
 - Select 'IDS.ipynb' and you're good to go!
+
+# Note You can Google Collab Also
