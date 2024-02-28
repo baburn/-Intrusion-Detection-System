@@ -8,7 +8,8 @@ The goal is to build an IDS to classify attacks as malicious or normal connectio
 - Train and test following classifiers - Decision Tree, Gaussian Naive Bayes, XGBoost.
 - Make predictions using ensemble techniques.
 
-![Methodology](https://user-images.githubusercontent.com/47852407/118237126-901f1080-b4b4-11eb-8ddd-a00945caa5e8.png)
+![Methodology](https://github.com/baburn/Intrusion-Detection-System-using-Machine-Learning-Algorithms/assets/161559258/d0045ed4-fffb-44b5-82fb-892cc7a84b7f)
+
 
 # Steps Involved
 
@@ -36,7 +37,8 @@ Classification of the network traffic data as normal or malicious using Ensemble
 The results show that an ensemble of Gaussian Naive Bayes + Decision Tree + XGBoost with proper preprocessing activities on KDD 1999 Cup Dataset will
 produce enhanced and more efficient IDS performance with low false positives. Also, the results show that it is possible to have a single and powerful classifier as the XGBoost classifier gives almost equally efficient results as the ensemble model.
 
-![Results](https://user-images.githubusercontent.com/47852407/118238271-ed679180-b4b5-11eb-893c-f818fdd33655.png)
+![Results](https://github.com/baburn/Intrusion-Detection-System-using-Machine-Learning-Algorithms/assets/161559258/d364e6db-8750-4f6f-9660-1dd45e223ee5)
+
 
 # How to use
 
